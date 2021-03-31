@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ameaças Ambientais</string>
+    <string name="txtAmeacasCadastradas">Ameaças Cadastradas</string>
+    <string name="txtNovaAmeacaBtn">NOVA AMEAÇA</string>
+    <string name="txtEndereco">Endereço</string>
+    <string name="txtData">Data</string>
+    <string name="txtDescricao">Descrição</string>
+    <string name="txtAdicionarBtn">ADICIONAR</string>
+    <string name="txtAtualizarBtn">ATUALIZAR</string>
+</resources>
